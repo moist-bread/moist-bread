@@ -48,7 +48,7 @@ i enjoy making 3D animation, experimental photography and textile art
 <p>
 	&emsp;
 	&emsp;
-	<a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
+	<a href="#stats"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
 	&emsp;
 	<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/more_to_come_...-blue"></a>
 
