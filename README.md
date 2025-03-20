@@ -51,11 +51,7 @@ i enjoy making 3D animation, experimental photography and textile art
 	<a href="#__development"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
 	&emsp;
 	<a href="#__development"><img alt="Static Badge" src="https://img.shields.io/badge/more_to_come_...-blue"></a>
-
-
-
 </p>
-
 
 
 ## Reach Me 🏁
@@ -72,3 +68,10 @@ i enjoy making 3D animation, experimental photography and textile art
 		<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 	</a>
 </div>
+
+<!--
+	★☆★-‵,┊( TO DO )┊.´-★☆★
+	- add minishell repo link
+	- fix email link
+	- fix email and linkedin badge blue underscore?
+-->
