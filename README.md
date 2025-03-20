@@ -1,7 +1,7 @@
 # raquel pereira__
 
 
-![raquel github banner](https://readme-typing-svg.herokuapp.com?font=roboto&size=22&duration=3000&color=FFFFFF&background=0D1117&vCenter=true&multiline=true&width=850&height=150&lines=%E2%96%9B+%E2%96%98+%E2%96%9C+%E2%96%9D+%E2%96%9E+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A+%E2%96%9B+%E2%96%98;%E2%96%96+%E2%96%98%E2%96%9E++%E2%96%98+%E2%96%99+%E2%96%9D+%E2%96%9E+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A+%E2%96%9B+%E2%96%98;++;%E2%96%9B+%E2%96%98+%E2%96%9C+%E2%96%9D+%E2%96%9E+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97++%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A+%E2%96%9B+%E2%96%98)
+[![raquel github banner](https://readme-typing-svg.herokuapp.com?font=roboto&size=22&duration=3000&color=FFFFFF&background=0D1117&vCenter=true&multiline=true&width=850&height=150&lines=%E2%96%9B+%E2%96%98+%E2%96%9C+%E2%96%9D+%E2%96%9E+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A+%E2%96%9B+%E2%96%98;%E2%96%96+%E2%96%98%E2%96%9E++%E2%96%98+%E2%96%99+%E2%96%9D+%E2%96%9E+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A+%E2%96%9B+%E2%96%98;++;%E2%96%9B+%E2%96%98+%E2%96%9C+%E2%96%9D+%E2%96%9E+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97++%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A+%E2%96%9B+%E2%96%98)](#raquel-pereira__)
 
 
 
@@ -10,17 +10,17 @@ welcome to my github. i'm **raquel pereira**, a ***multimedia arts graduate*** c
 i enjoy making 3D animation, experimental photography and textile art
 
 - 🌱 I’m currently studying at 42Lisbon, learning C and exploring Godot
-- 🌍 I’m currently working on [**MiniShell**](https://github.com/moist-bread) _`42 project`_ (repo to be created) and  [**Ansi Color Library**](https://github.com/moist-bread/ansi_color_library) _`personal project`_
+- 🌍 I’m currently working on [**MiniShell**](#about-me-) _`42 project`_ (repo to be created) and  [**Ansi Color Library**](https://github.com/moist-bread/ansi_color_library) _`personal project`_
 - 🔭 I’m planning on learning HTML, CSS and Three.js
 
 
 
 ## Stats 🦷
 <p align="left">
-	<a href="#"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=moist-bread&show_icons=true&theme=holi&rank_icon=github&icon_color=35cdd3&ring_color=205fb3" /></a>
+	<a href="#stats-"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=moist-bread&show_icons=true&theme=holi&rank_icon=github&icon_color=35cdd3&ring_color=205fb3" /></a>
 	&emsp;
 	&emsp;
-	<a href="#"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moist-bread&layout=compact&theme=holi" /></a>
+	<a href="#stats-"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moist-bread&layout=compact&theme=holi" /></a>
 </p>
 
 
@@ -31,26 +31,26 @@ i enjoy making 3D animation, experimental photography and textile art
 <p>
 	&emsp;
 	&emsp;
-	<a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-f67b00?logo=blender&logoColor=fff"></a>
+	<a href="#__graphics"><img alt="Blender" src="https://img.shields.io/badge/Blender-f67b00?logo=blender&logoColor=fff"></a>
 	&emsp;
-	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Clip_Studio_Paint-grey?"></a>
+	<a href="#__graphics"><img alt="Git" src="https://img.shields.io/badge/Clip_Studio_Paint-grey?"></a>
 	&emsp;
-	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Adobe_Photoshop-darkblue?"></a>
+	<a href="#__graphics"><img alt="Git" src="https://img.shields.io/badge/Adobe_Photoshop-darkblue?"></a>
 	&emsp;
-	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Sony_Vegas-%232370ED?logo=sony&logoColor=white"></a>
+	<a href="#__graphics"><img alt="Git" src="https://img.shields.io/badge/Sony_Vegas-%232370ED?logo=sony&logoColor=white"></a>
 	&emsp;
-	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Figma-a259ff?logo=figma&logoColor=white"></a>
+	<a href="#__graphics"><img alt="Git" src="https://img.shields.io/badge/Figma-a259ff?logo=figma&logoColor=white"></a>
 	&emsp;
-	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white"></a>
+	<a href="#__graphics"><img alt="Git" src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white"></a>
 </p>
 
 ### __development
 <p>
 	&emsp;
 	&emsp;
-	<a href="#stats"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
+	<a href="#__development"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
 	&emsp;
-	<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/more_to_come_...-blue"></a>
+	<a href="#__development"><img alt="Static Badge" src="https://img.shields.io/badge/more_to_come_...-blue"></a>
 
 
 
