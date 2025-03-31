@@ -1,7 +1,7 @@
 # raquel pereira__
 
 
-[![raquel github banner](https://readme-typing-svg.herokuapp.com?font=roboto&size=22&duration=3000&color=FFFFFF&background=0D1117&vCenter=true&multiline=true&width=850&height=150&lines=%E2%96%9B+%E2%96%98+%E2%96%9C+%E2%96%9D+%E2%96%9E+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A+%E2%96%9B+%E2%96%98;%E2%96%96+%E2%96%98%E2%96%9E++%E2%96%98+%E2%96%99+%E2%96%9D+%E2%96%9E+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A+%E2%96%9B+%E2%96%98;++;%E2%96%9B+%E2%96%98+%E2%96%9C+%E2%96%9D+%E2%96%9E+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97++%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A+%E2%96%9B+%E2%96%98)](#raquel-pereira__)
+[![raquel github banner](https://readme-typing-svg.herokuapp.com?font=roboto&size=22&duration=3000&color=FFFFFF&background=10141400&vCenter=true&multiline=true&width=850&height=150&lines=%E2%96%9B++%E2%96%98+%E2%96%9C++%E2%96%9D++%E2%96%9E++%E2%96%9F+++%E2%96%99+++%E2%96%98+%E2%96%96+++%E2%96%9E++%E2%96%97+++%E2%96%9F++%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A++%E2%96%98;%E2%96%96+%E2%96%98%E2%96%9E++%E2%96%98+%E2%96%99+%E2%96%9D+%E2%96%9E+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97++%E2%96%98+%E2%96%96%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A+%E2%96%9B+%E2%96%98;++;%E2%96%9B+%E2%96%98+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97++%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A+%E2%96%9B+%E2%96%98)](#raquel-pereira__)
 
 
 
@@ -10,7 +10,7 @@ welcome to my github. i'm **raquel pereira**, a ***multimedia arts graduate*** c
 i enjoy making 3D animation, experimental photography and textile art
 
 - 🌱 I’m currently studying at 42Lisbon, learning C and exploring Godot
-- 🌍 I’m currently working on [**MiniShell**](#about-me-) _`42 project`_ (repo to be created) and  [**Ansi Color Library**](https://github.com/moist-bread/ansi_color_library) _`personal project`_
+- 🌍 I’m currently working on [**MiniShell**](https://github.com/moist-bread/mini_shell) _`42 project`_ and  [**Ansi Color Library**](https://github.com/moist-bread/ansi_color_library) _`personal project`_
 - 🔭 I’m planning on learning HTML, CSS and Three.js
 
 
@@ -71,7 +71,11 @@ i enjoy making 3D animation, experimental photography and textile art
 
 <!--
 	★☆★-‵,┊( TO DO )┊.´-★☆★
-	- add minishell repo link
 	- fix email link
 	- fix email and linkedin badge blue underscore?
+
+	★☆★-‵,┊( SAVED )┊.´-★☆★
+	
+	_banner making link:
+	https://readme-typing-svg.herokuapp.com/demo/?font=roboto&size=22&duration=3000&pause=0&color=FFFFFF&background=10141400&vCenter=true&multiline=true&width=850&height=150&lines=%E2%96%9B++%E2%96%98+%E2%96%9C++%E2%96%9D++%E2%96%9E++%E2%96%9F+++%E2%96%99+++%E2%96%98+%E2%96%96+++%E2%96%9E++%E2%96%97+++%E2%96%9F++%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A++%E2%96%98;%E2%96%96+%E2%96%98%E2%96%9E++%E2%96%98+%E2%96%99+%E2%96%9D+%E2%96%9E+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97++%E2%96%98+%E2%96%96%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A+%E2%96%9B+%E2%96%98;++;%E2%96%9B+%E2%96%98+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97++%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A+%E2%96%9B+%E2%96%98
 -->
