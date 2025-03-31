@@ -31,26 +31,26 @@ i enjoy making 3D animation, experimental photography and textile art
 <p>
 	&emsp;
 	&emsp;
-	<a href="#__graphics"><img alt="Blender" src="https://img.shields.io/badge/Blender-f67b00?logo=blender&logoColor=fff"></a>
+	<a href="#skills-"><img alt="Blender" src="https://img.shields.io/badge/Blender-f67b00?logo=blender&logoColor=fff"></a>
 	&emsp;
-	<a href="#__graphics"><img alt="Git" src="https://img.shields.io/badge/Clip_Studio_Paint-grey?"></a>
+	<a href="#skills-"><img alt="Git" src="https://img.shields.io/badge/Clip_Studio_Paint-grey?"></a>
 	&emsp;
-	<a href="#__graphics"><img alt="Git" src="https://img.shields.io/badge/Adobe_Photoshop-darkblue?"></a>
+	<a href="#skills-"><img alt="Git" src="https://img.shields.io/badge/Adobe_Photoshop-darkblue?"></a>
 	&emsp;
-	<a href="#__graphics"><img alt="Git" src="https://img.shields.io/badge/Sony_Vegas-%232370ED?logo=sony&logoColor=white"></a>
+	<a href="#skills-"><img alt="Git" src="https://img.shields.io/badge/Sony_Vegas-%232370ED?logo=sony&logoColor=white"></a>
 	&emsp;
-	<a href="#__graphics"><img alt="Git" src="https://img.shields.io/badge/Figma-a259ff?logo=figma&logoColor=white"></a>
+	<a href="#skills-"><img alt="Git" src="https://img.shields.io/badge/Figma-a259ff?logo=figma&logoColor=white"></a>
 	&emsp;
-	<a href="#__graphics"><img alt="Git" src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white"></a>
+	<a href="#skills-"><img alt="Git" src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white"></a>
 </p>
 
 ### __development
 <p>
 	&emsp;
 	&emsp;
-	<a href="#__development"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
+	<a href="#skills-"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
 	&emsp;
-	<a href="#__development"><img alt="Static Badge" src="https://img.shields.io/badge/more_to_come_...-blue"></a>
+	<a href="#skills-"><img alt="Static Badge" src="https://img.shields.io/badge/more_to_come_...-blue"></a>
 </p>
 
 
@@ -75,7 +75,7 @@ i enjoy making 3D animation, experimental photography and textile art
 	- fix email and linkedin badge blue underscore?
 
 	★☆★-‵,┊( SAVED )┊.´-★☆★
-	
+
 	_banner making link:
 	https://readme-typing-svg.herokuapp.com/demo/?font=roboto&size=22&duration=3000&pause=0&color=FFFFFF&background=10141400&vCenter=true&multiline=true&width=850&height=150&lines=%E2%96%9B++%E2%96%98+%E2%96%9C++%E2%96%9D++%E2%96%9E++%E2%96%9F+++%E2%96%99+++%E2%96%98+%E2%96%96+++%E2%96%9E++%E2%96%97+++%E2%96%9F++%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A++%E2%96%98;%E2%96%96+%E2%96%98%E2%96%9E++%E2%96%98+%E2%96%99+%E2%96%9D+%E2%96%9E+%E2%96%9F+%E2%96%99+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97++%E2%96%98+%E2%96%96%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A+%E2%96%9B+%E2%96%98;++;%E2%96%9B+%E2%96%98+%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97++%E2%96%98+%E2%96%96+%E2%96%9E+%E2%96%99+%E2%96%97+%E2%96%9A+%E2%96%9B+%E2%96%98
 -->
