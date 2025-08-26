@@ -9,8 +9,8 @@
 welcome to my github. i'm **raquel pereira**, a ***multimedia arts graduate*** currectly studying ***software development***  \
 i enjoy making 3D animation, experimental photography and textile art
 
-- 🌱 I’m currently studying at 42Lisbon, learning C and exploring Godot
-- 🌍 I’m currently working on [**MiniShell**](https://github.com/moist-bread/mini_shell) _`42 project`_ and  [**Ansi Color Library**](https://github.com/moist-bread/ansi_color_library) _`personal project`_
+- 🌱 I’m currently studying at 42Lisbon, learning C, C++ and exploring Godot
+- 🌍 I’m currently working on [**Cub3d**](https://github.com/pmoreira-og/42_Cub3d) _`42 project`_ and  [**pirate.parrot**](https://github.com/moist-bread/pirate-parrot) _`personal project`_
 - 🔭 I’m planning on learning HTML, CSS and Three.js
 
 
